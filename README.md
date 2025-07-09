@@ -1,5 +1,13 @@
 # 🌼 Pickmin
-[![YouTube Video](https://img.youtube.com/vi/WgFMX3fuuic/0.jpg)](https://www.youtube-nocookie.com/embed/WgFMX3fuuic)
+
+A datapack and resource pack for Minecraft Java 1.21.1, designed as an add-on for the Cobblemon mod.
+
+<details>
+<summary>🎥 Video Showcase</summary>
+
+[![Watch the video](https://img.youtube.com/vi/WgFMX3fuuic/0.jpg)](https://youtu.be/WgFMX3fuuic)
+</details>
+
 
 # 🛠️ **Installation**
 
