@@ -1,0 +1,17 @@
+{
+  "type": "cobblemon:simple_pokedex_def",
+  "id": "cobblemon:pnf404",
+  "sortOrder": 12,
+  "entries": [
+    "cobblemon:redpickmin",
+    "cobblemon:yellowpickmin",
+    "cobblemon:bluepickmin",
+    "cobblemon:purplepickmin",
+    "cobblemon:whitepickmin",
+    "cobblemon:bulbpickmin",
+    "cobblemon:rockpickmin",
+    "cobblemon:wingpickmin",
+    "cobblemon:icepickmin",
+    "cobblemon:glowpickmin"
+  ]
+}

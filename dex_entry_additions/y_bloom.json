@@ -1,0 +1,20 @@
+{
+  "entryId": "cobblemon:yellowpickmin",
+  "variations": [
+    {
+      "displayName": "Bloom",
+      "icon": "cobblemon:textures/gui/pokedex/variation/flower.png",
+      "aspects": [
+        "bloom-leaf",
+        "bloom-bud",
+        "bloom-flowering"
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "displayForm": "Y. Mushmin",
+      "unlockForms": ["Y. Mushmin"]
+    }
+  ]
+}

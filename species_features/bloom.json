@@ -1,0 +1,12 @@
+{
+ "type": "choice",
+ "keys": ["bloom"],
+ "default": "random",
+ "choices": [
+   "leaf",
+   "bud",
+   "flowering"
+ ],
+ "isAspect": true,
+ "aspectFormat": "bloom-{{choice}}"
+}

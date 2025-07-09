@@ -1,0 +1,112 @@
+{
+  "target": "cobblemon:bluepickmin",
+  "features": ["mushmin"],
+  "forms": [
+    {
+      "name": "B. Mushmin",
+      "primaryType": "bug",
+      "secondaryType": "water",
+      "height": 1,
+      "weight": 0.8,
+      "pokedex": [
+        "cobblemon.species.blue-mushmin.desc"
+      ],
+      "labels": [
+        "pickmin",
+        "mushmin"
+      ],
+      "aspects": [
+        "mushmin"
+      ],
+      "abilities": [
+        "stormdrain",
+        "waterabsorb"
+      ],
+      "baseStats": {
+        "hp": 60,
+        "attack": 95,
+        "defence": 50,
+        "special_attack": 95,
+        "special_defence": 50,
+        "speed": 130
+      },
+      "drops": {
+        "amount": 2,
+        "entries": [
+          {
+            "item": "minecraft:crimson_fungus",
+            "quantityRange": "1-1",
+            "percentage": 75
+          }
+        ]
+      },
+      "moves": [
+        "1:tackle",
+        "3:leer",
+        "4:watergun",
+        "8:branchpoke",
+        "10:absorb",
+        "16:waterpulse",
+        "20:growth",
+        "24:headbutt",
+        "25:leechlife",
+        "26:lunge",
+        "27:leechseed",
+        "30:seedbomb",
+        "32:bugbuzz",
+        "34:hydropump",
+        "40:liquidation"
+      ],
+      "behaviour": {
+        "resting": {
+          "canSleep": true,
+          "depth": "normal",
+          "light": "5-15",
+          "willSleepOnBed": true,
+          "times": "day"
+        },
+        "moving": {
+      "canLook": true,
+      "walk": {
+        "canWalk": true,
+        "avoidsLand": false
+      },
+      "swim": {
+        "swimSpeed": 0.6,
+        "canSwimInWater": true,
+        "avoidsLava": true,
+        "canBreatheUnderwater": true
+      },
+      "fly": {
+        "canFly": false,
+        "flySpeedHorizontal": 0.3
+      }
+    }
+      },
+      "baseScale": 1,
+      "hitbox": {
+        "width": 0.3,
+        "height": 0.6,
+        "fixed": false
+      },
+      "baseFriendship": 50,
+      "evYield": {
+        "hp": 1,
+        "attack": 0,
+        "defence": 0,
+        "special_attack": 0,
+        "special_defence": 0,
+        "speed": 0
+      },
+      "catchRate": 45,
+      "maleRatio": -1,
+      "shoulderMountable": true,
+      "baseExperienceYield": 50,
+      "experienceGroup": "fast",
+      "eggCycles": 10,
+      "eggGroups": [
+        "undiscovered"
+      ]
+    }
+  ]
+}

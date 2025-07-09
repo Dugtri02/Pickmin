@@ -1,0 +1,69 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "yellowpickmin-1",
+     "pokemon": "yellowpickmin",
+     "presets": [ "natural", "wild" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "rare",
+     "level": "1-22",
+     "weight": 4,
+     "condition": {
+       "biomes": [ "#cobblemon:is_forest", "#cobblemon:is_plains" ],
+       "minSkyLight": 8,
+       "maxSkyLight": 15
+     }
+   },
+   {
+     "id": "yellowpickmin-2",
+     "pokemon": "yellowpickmin",
+     "presets": [ "natural", "wild" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "uncommon",
+     "level": "1-22",
+     "weight": 6.5,
+     "condition": {
+       "biomes": [ "minecraft:flower_forest", "minecraft:meadow", "minecraft:sunflower_plains", "minecraft:lush_caves" ],
+       "minSkyLight": 8,
+       "maxSkyLight": 15
+     }
+   },
+   {
+     "id": "yellowpickmin-3",
+     "pokemon": "yellowpickmin",
+     "presets": [ "wild" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "rare",
+     "level": "50-86",
+     "weight": 8.5,
+     "condition": {
+       "isThundering": true,
+       "biomes": [ "#minecraft:is_mountain"],
+       "minSkyLight": 8,
+       "maxSkyLight": 15
+     }
+   },
+   {
+     "id": "yellowpickmin-4",
+     "pokemon": "yellowpickmin mushmin=true",
+     "presets": [],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "rare",
+     "level": "22-86",
+     "weight": 3.5,
+     "condition": {
+       "biomes": [ "minecraft:warped_forest"],
+       "neededBaseBlocks": [
+      "minecraft:warped_nylium"
+      ]
+     }
+   }
+ ]
+}
