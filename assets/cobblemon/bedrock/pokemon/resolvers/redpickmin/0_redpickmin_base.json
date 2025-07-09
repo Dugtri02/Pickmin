@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:redpickmin",
+ "order": 0,
+ "variations": [
+   {
+    "aspects": [],
+    "poser": "cobblemon:r_pickmin",
+     "model": "cobblemon:redpickminleaf.geo",
+     "texture": "cobblemon:textures/pokemon/redpickmin/redpickminleaf.png"
+   }
+ ]
+}

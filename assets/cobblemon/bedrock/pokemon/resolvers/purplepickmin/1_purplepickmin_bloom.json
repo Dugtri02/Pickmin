@@ -1,0 +1,32 @@
+{
+ "species": "cobblemon:purplepickmin",
+ "order": 1,
+ "variations": [
+   {
+     "aspects": [
+      "bloom-leaf"
+     ],
+     "poser": "cobblemon:purplepickmin",
+     "model": "cobblemon:purplepickminleaf.geo",
+     "texture": "cobblemon:textures/pokemon/purplepickmin/purplepickminleaf.png",
+     "layers": []
+   },
+   {
+     "aspects": [
+       "bloom-bud"
+     ],
+     "poser": "cobblemon:purplepickmin",
+     "model": "cobblemon:purplepickminbud.geo",
+     "texture": "cobblemon:textures/pokemon/purplepickmin/purplepickminbud.png"
+   },
+   {
+     "aspects": [
+       "bloom-flowering"
+     ],
+     "poser": "cobblemon:purplepickmin",
+     "model": "cobblemon:purplepickminflower.geo",
+     "texture": "cobblemon:textures/pokemon/purplepickmin/purplepickminflower.png",
+     "layers": []
+   }
+ ]
+}

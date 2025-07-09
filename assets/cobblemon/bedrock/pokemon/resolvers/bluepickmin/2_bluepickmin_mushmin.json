@@ -1,0 +1,22 @@
+{
+ "species": "cobblemon:bluepickmin",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+      "mushmin"
+     ],
+     "poser": "cobblemon:bluepickmin",
+     "model": "cobblemon:blue_mushmin.geo",
+     "texture": "cobblemon:textures/pokemon/mushmin/blue_mushmin.png",
+     "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/mushmin/blue_mushmin_emissive.png",
+              "translucent": true
+        }
+     ]
+   }
+ ]
+}

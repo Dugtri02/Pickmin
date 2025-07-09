@@ -1,0 +1,31 @@
+{
+ "species": "cobblemon:bluepickmin",
+ "order": 1,
+ "variations": [
+   {
+     "aspects": [
+      "bloom-flowering"
+     ],
+     "poser": "cobblemon:bluepickmin",
+     "model": "cobblemon:bluepickminflower.geo",
+     "texture": "cobblemon:textures/pokemon/bluepickmin/bluepickminflower.png",
+     "layers": []
+   },
+   {
+     "aspects": [
+       "bloom-leaf"
+     ],
+     "poser": "cobblemon:bluepickmin",
+     "model": "cobblemon:bluepickminleaf.geo",
+     "texture": "cobblemon:textures/pokemon/bluepickmin/bluepickminleaf.png"
+   },
+   {
+     "aspects": [
+       "bloom-bud"
+     ],
+     "poser": "cobblemon:bluepickmin",
+     "model": "cobblemon:bluepickminbud.geo",
+     "texture": "cobblemon:textures/pokemon/bluepickmin/bluepickminbud.png"
+   }
+ ]
+}

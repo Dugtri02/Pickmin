@@ -1,0 +1,13 @@
+{
+ "species": "cobblemon:purplepickmin",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:purplepickmin",
+     "model": "cobblemon:purplepickminleaf.geo",
+     "texture": "cobblemon:textures/pokemon/purplepickmin/purplepickminleaf.png",
+     "layers": []
+   }
+ ]
+}

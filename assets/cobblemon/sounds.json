@@ -1,0 +1,11 @@
+{
+   "pokemon.pickmin.cry": {
+       "sounds": [ { "name": "cobblemon:pokemon/pickmin/cry/alert", "volume": 0.5}, { "name": "cobblemon:pokemon/pickmin/cry/yahoo", "volume": 0.5}, { "name": "cobblemon:pokemon/pickmin/cry/wah", "volume": 0.5}, { "name": "cobblemon:pokemon/pickmin/cry/wah2", "volume": 0.5}, { "name": "cobblemon:pokemon/pickmin/cry/yippee", "volume": 0.5}]
+   },
+   "pokemon.pickmin.faint": {
+       "sounds": [ { "name": "cobblemon:pokemon/pickmin/faint/faint", "volume": 0.5}]
+   },
+   "pokemon.pickmin_placeholder.ground_walk": {
+       "sounds": [ { "name": "cobblemon:pokemon/pickmin/walk/carry1", "volume": 0.5}, {"name": "cobblemon:pokemon/pickmin/walk/loop1", "volume": 0.5}, {"name": "cobblemon:pokemon/pickmin/walk/loop2", "volume": 0.5}, {"name": "cobblemon:pokemon/pickmin/walk/loop3", "volume": 0.5}, {"name": "cobblemon:pokemon/pickmin/walk/loop3", "volume": 0.5}]
+   }
+}

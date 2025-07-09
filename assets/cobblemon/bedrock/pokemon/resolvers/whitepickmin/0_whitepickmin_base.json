@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:whitepickmin",
+ "order": 0,
+ "variations": [
+   {
+    "aspects": [],
+    "poser": "cobblemon:w_pickmin",
+    "model": "cobblemon:whitepickminleaf.geo",
+    "texture": "cobblemon:textures/pokemon/whitepickmin/whitepickminleaf.png"
+   }
+ ]
+}

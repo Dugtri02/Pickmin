@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:yellowpickmin",
+ "order": 0,
+ "variations": [
+   {
+    "aspects": [],
+    "poser": "cobblemon:y_pickmin",
+    "model": "cobblemon:yellowpickminleaf.geo",
+    "texture": "cobblemon:textures/pokemon/yellowpickmin/yellowpickminleaf.png"
+   }
+ ]
+}

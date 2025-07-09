@@ -1,0 +1,13 @@
+{
+ "species": "cobblemon:wingpickmin",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:wingpickmin",
+     "model": "cobblemon:wingpickminleaf.geo",
+     "texture": "cobblemon:textures/pokemon/wingpickmin/wingpickminleaf.png",
+     "layers": []
+   }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+  "Head": "Head",
+  "portraitScale": 3.8,
+  "portraitTranslation": [ 0.2, -2.6, 0.5 ],
+  "profileScale": 1.2,
+  "profileTranslation": [ 0, 0, 0 ],
+  "rootBone": "Main",
+  "animations": {
+    "cry": "q.bedrock_stateful('purplemushmin', 'cry')",
+    "faint": "q.bedrock_stateful('purplemushmin', 'faint')",
+    "sleep": "q.bedrock_stateful('purplemushmin', 'sleep')"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "isTouchingWater": false,
+      "animations": ["q.bedrock('purplemushmin', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('purplemushmin', 'blink')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE", "FLOAT"],
+      "isBattle": false,
+      "isTouchingWater": false,
+      "animations": ["q.look('Head')", "q.bedrock('purplemushmin', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('purplemushmin', 'blink')"]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "isTouchingWater": false,
+      "animations": ["q.look('Head')", "q.bedrock('purplemushmin', 'ground_walk')"],
+      "quirks": ["q.bedrock_quirk('purplemushmin', 'blink')"]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "isTouchingWater": false,
+      "animations": ["q.bedrock('purplemushmin', 'sleep')"]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "isTouchingWater": true,
+      "animations": ["q.look('Head')", "q.bedrock('purplemushmin', 'swim')"],
+      "quirks": ["q.bedrock_quirk('purplemushmin', 'blink')"]
+    },
+    "float": {
+     "poseTypes": ["FLOAT"],
+     "isTouchingWater": true,
+     "animations": [
+       "q.look('Head')",
+       "q.bedrock('purplemushmin', 'swim')"
+     ],
+     "quirks": ["q.bedrock_quirk('purplemushmin', 'blink')"]
+   },
+    "shoulder_left": {
+     "poseTypes": ["SHOULDER_LEFT"],
+     "animations": [
+       "q.look('Head')",
+       "q.bedrock('purplemushmin', 'shoulder_left')"
+     ],
+     "quirks": ["q.bedrock_quirk('purplemushmin', 'blink')"]
+   },
+   "shoulder_right": {
+     "poseTypes": ["SHOULDER_RIGHT"],
+     "animations": [
+       "q.look('Head')",
+       "q.bedrock('purplemushmin', 'shoulder_right')"
+     ],
+     "quirks": ["q.bedrock_quirk('purplemushmin', 'blink')"]
+   },
+   "surface_swim": {
+      "poseTypes": ["WALK"],
+      "isTouchingWater": true,
+      "animations": [
+        "q.look('Head')",
+        "q.bedrock('purplemushmin', 'swim')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('purplemushmin', 'blink')"
+      ]
+    },
+    "surface_idle": {
+      "poseTypes": ["STAND"],
+      "isTouchingWater": true,
+      "animations": [
+        "q.look('Head')",
+        "q.bedrock('purplemushmin', 'swim')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('purplemushmin', 'blink')"
+      ]
+    }
+  }
+}
+

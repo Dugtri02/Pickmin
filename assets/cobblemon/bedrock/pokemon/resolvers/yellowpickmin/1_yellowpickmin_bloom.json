@@ -1,0 +1,31 @@
+{
+ "species": "cobblemon:yellowpickmin",
+ "order": 1,
+ "variations": [
+   {
+     "aspects": [
+       "bloom-flowering"
+     ],
+     "poser": "cobblemon:y_pickmin",
+     "model": "cobblemon:yellowpickminflower.geo",
+     "texture": "cobblemon:textures/pokemon/yellowpickmin/yellowpickminflower.png",
+     "layers": []
+   },
+   {
+    "aspects": [
+      "bloom-leaf"
+    ],
+    "poser": "cobblemon:y_pickmin",
+    "model": "cobblemon:yellowpickminleaf.geo",
+    "texture": "cobblemon:textures/pokemon/yellowpickmin/yellowpickminleaf.png"
+   },
+   {
+    "aspects": [
+      "bloom-bud"
+    ],
+    "poser": "cobblemon:y_pickmin",
+    "model": "cobblemon:yellowpickminbud.geo",
+    "texture": "cobblemon:textures/pokemon/yellowpickmin/yellowpickminbud.png"
+   }
+ ]
+}

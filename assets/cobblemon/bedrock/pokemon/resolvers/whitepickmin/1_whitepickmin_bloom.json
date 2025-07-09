@@ -1,0 +1,31 @@
+{
+ "species": "cobblemon:whitepickmin",
+ "order": 1,
+ "variations": [
+   {
+     "aspects": [
+      "bloom-flowering"
+     ],
+     "poser": "cobblemon:w_pickmin",
+     "model": "cobblemon:whitepickminflower.geo",
+     "texture": "cobblemon:textures/pokemon/whitepickmin/whitepickminflower.png",
+     "layers": []
+   },
+   {
+    "aspects": [
+      "bloom-leaf"
+    ],
+    "poser": "cobblemon:w_pickmin",
+    "model": "cobblemon:whitepickminleaf.geo",
+    "texture": "cobblemon:textures/pokemon/whitepickmin/whitepickminleaf.png"
+   },
+   {
+    "aspects": [
+      "bloom-bud"
+    ],
+    "poser": "cobblemon:w_pickmin",
+    "model": "cobblemon:whitepickminbud.geo",
+    "texture": "cobblemon:textures/pokemon/whitepickmin/whitepickminbud.png"
+   }
+ ]
+}
