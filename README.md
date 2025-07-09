@@ -89,5 +89,3 @@ You're free to:
 
 [Pickmin] is not affiliated with Pokémon, Minecraft nor Pikmin.  
 Minecraft is a trademark of Mojang Synergies AB ｜ Pokémon is a trademark of Nintendo, Creatures Inc. and GAME FREAK inc. ｜ Pikmin is a trademark of Nintendo.
-[Pickmin] is not affiliated with Pokémon, Minecraft nor Pikmin.  
-Minecraft is a trademark of Mojang Synergies AB ｜ Pokémon is a trademark of Nintendo, Creatures Inc. and GAME FREAK inc. ｜ Pikmin is a trademark of Nintendo.
